@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "604042435953",
+    "project_id": "ibank-93b15",
+    "storage_bucket": "ibank-93b15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604042435953:android:eed65ce9be8a5295cb2ad0",
+        "android_client_info": {
+          "package_name": "com.example.i_bank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604042435953-1sqnatvsblae4u2bnvtg51244v7j8eqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6qZru2aNubJn2TSpISQkggT5vGewe4E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604042435953-1sqnatvsblae4u2bnvtg51244v7j8eqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
